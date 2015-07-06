@@ -1,0 +1,16 @@
+ros-hydro-maggie-labjack-drivers (0.0.2-0raring) raring; urgency=high
+
+  * testing 3rd party header catking install
+  * updated bug in labjack
+  * commented unnecesary 3rd party
+  * Contributors: Raul Perula-Martinez, Raúl Pérula-Martínez
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Fri, 05 Jun 2015 22:00:00 -0000
+
+ros-hydro-maggie-labjack-drivers (0.0.1-0raring) raring; urgency=high
+
+  Initial release.
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Thu, 30 Apr 2015 22:00:00 -0000
+
+

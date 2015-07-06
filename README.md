@@ -1,15 +1,6 @@
-# maggie_drivers
+# maggie_rfid_drivers
 
-GitHub repository for the drivers for the Social Robot Maggie.
-
-## CONTENT
-
-- `maggie_ir_drivers`: a ROS package with the interface and the wrapper for the IR controller device. Also contains a mock (see gmock) to simulate the behavior of the physical device.
-- `maggie_labjack_drivers`: a ROS package with the interface and the wrapper for the labjack device. Also contains a mock (see gmock) to simulate the behavior of the physical device.
-- `maggie_drivers`: a ROS metapackage.
-- `maggie_motor_drivers`: a ROS package with the interface and the drivers for the motors device.
-- `maggie_rfid_drivers`: a ROS package with the interface and the wrapper for the RFID device.
-- `maggie_serial_comm_drivers`: a ROS package with the interface and the drivers for the servomotors device, implemented for the serial communication. Also contains a mock (see gmock) to simulate the behavior of the physical device.
+ROS package for the drivers of the rfid for the Social Robot Maggie.
 
 ## LICENSE
 

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
 	<name>maggie_ir_drivers</name>
-	<version>0.0.2</version>
+	<version>0.0.4</version>
 	<description>
 		ir drivers for Maggie robot
 	</description>
@@ -32,6 +32,10 @@
 	<!-- ROS packages dependencies -->
 	<build_depend>roscpp</build_depend>
 	<exec_depend>roscpp</exec_depend>
+
+	<!-- 3rd party packages dependencies -->
+	<build_depend>ir_trans_drivers</build_depend>
+	<exec_depend>ir_trans_drivers</exec_depend>
 
 	<!-- tests dependencies -->
 	<test_depend>gtest</test_depend>

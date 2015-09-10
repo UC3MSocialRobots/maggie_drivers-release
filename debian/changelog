@@ -1,0 +1,37 @@
+ros-hydro-maggie-motor-drivers (0.0.4-0quantal) quantal; urgency=high
+
+  * updated warnings in changelogs
+  * Contributors: Raul Perula-Martinez
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Wed, 09 Sep 2015 22:00:00 -0000
+
+ros-hydro-maggie-motor-drivers (0.0.3-0quantal) quantal; urgency=high
+
+  * updated dependencies
+  * updated log info by debug
+  * Contributors: Raul Perula-Martinez, Raúl Pérula-Martínez
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Sun, 06 Sep 2015 22:00:00 -0000
+
+ros-hydro-maggie-motor-drivers (0.0.2-0quantal) quantal; urgency=high
+
+  * updated format
+  * debug neck calibration: working version
+  * debug neck calibration
+  * debug neck calibration
+  * debug neck calibration
+  * debug neck calibration
+  * debug neck calibration
+  * debug neck calibration
+  * debug neck calibration
+  * Contributors: Marco Faroni, Raúl Pérula-Martínez
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Fri, 05 Jun 2015 22:00:00 -0000
+
+ros-hydro-maggie-motor-drivers (0.0.1-0quantal) quantal; urgency=high
+
+  Initial release.
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Thu, 30 Apr 2015 22:00:00 -0000
+
+

@@ -1,3 +1,30 @@
+## maggie_drivers (hydro) - 0.0.4-0
+
+The packages in the `maggie_drivers` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release --rosdistro hydro --track hydro maggie_drivers` on `Thu, 10 Sep 2015 11:15:41 -0000`
+
+These packages were released:
+- `maggie_drivers`
+- `maggie_ir_drivers`
+- `maggie_labjack_drivers`
+- `maggie_motor_drivers`
+- `maggie_rfid_drivers`
+- `maggie_serial_comm_drivers`
+
+Version of package(s) in repository `maggie_drivers`:
+- upstream repository: https://github.com/UC3MSocialRobots/maggie_drivers.git
+- release repository: https://github.com/UC3MSocialRobots/maggie_drivers-release.git
+- rosdistro version: `0.0.3-1`
+- old version: `0.0.3-1`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## maggie_drivers (hydro) - 0.0.3-1
 
 The packages in the `maggie_drivers` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release --rosdistro hydro --track hydro maggie_drivers` on `Thu, 10 Sep 2015 08:49:50 -0000`

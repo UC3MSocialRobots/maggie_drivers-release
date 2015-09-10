@@ -1,0 +1,31 @@
+ros-hydro-maggie-ir-drivers (0.0.4-0quantal) quantal; urgency=high
+
+  * updated warnings in changelogs
+  * updated dependency
+  * Contributors: Raul Perula-Martinez
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Wed, 09 Sep 2015 22:00:00 -0000
+
+ros-hydro-maggie-ir-drivers (0.0.3-0quantal) quantal; urgency=high
+
+  * updated dependencies to 3rd party of ir controller
+  * updated log info by debug
+  * Contributors: Raul Perula-Martinez, Raúl Pérula-Martínez
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Sun, 06 Sep 2015 22:00:00 -0000
+
+ros-hydro-maggie-ir-drivers (0.0.2-0quantal) quantal; urgency=high
+
+  * testing 3rd party header catking install
+  * workaround config script
+  * Contributors: Raul Perula-Martinez, Raúl Pérula-Martínez
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Fri, 05 Jun 2015 22:00:00 -0000
+
+ros-hydro-maggie-ir-drivers (0.0.1-0quantal) quantal; urgency=high
+
+  Initial release.
+
+ -- Raul Perula-Martinez <raul.perula@uc3m.es>  Thu, 30 Apr 2015 22:00:00 -0000
+
+

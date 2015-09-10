@@ -1,0 +1,12 @@
+Source: ros-hydro-maggie-serial-comm-drivers
+Section: misc
+Priority: extra
+Maintainer: Raul Perula-Martinez <raul.perula@uc3m.es>
+Build-Depends: debhelper (>= 9.0.0), google-mock, libgtest-dev, ros-hydro-catkin, ros-hydro-roscpp
+Homepage: http://wiki.ros.org/maggie_serial_comm_drivers
+Standards-Version: 3.9.2
+
+Package: ros-hydro-maggie-serial-comm-drivers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-roscpp
+Description: serial_comm drivers for Maggie robot
